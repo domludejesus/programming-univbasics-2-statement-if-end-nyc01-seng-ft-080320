@@ -10,4 +10,4 @@ end
 
 chance_of_rain 
 
-Time.now.year
+this year == Time.now.year
