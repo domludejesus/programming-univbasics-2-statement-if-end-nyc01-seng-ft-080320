@@ -9,3 +9,5 @@ else
 end
 
 chance_of_rain 
+
+Time.now.year
