@@ -8,3 +8,4 @@ else
   puts "Stay home and read Hegel."
 end
 
+chance_of_rain 
